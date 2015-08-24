@@ -1,6 +1,0 @@
-* Trêm de pouso removível;
-* Faz som de helicóptero e pisca luzes;
-* Toca melodias;
-* Ensina números e cores;
-* Estimula a coordenação motora e visual;
-* Pilhas Inclusas.

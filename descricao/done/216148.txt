@@ -1,3 +1,0 @@
-* Faixa etária: Acima de 12 meses;
-* Sons são ativados ao apertar os botões em forma de círculo e triângulo;
-* Pilhas Inclusas.
