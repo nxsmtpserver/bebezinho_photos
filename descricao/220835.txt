@@ -1,0 +1,9 @@
+* Faixa etária: Acima de 18 meses;
+* Inicia o passeio ao pressionar o animalzinho;
+* Tem buzina e luz;
+* O trem para quando encosta em um obstáculo;
+* O trem se movimenta sozinho dentro ou fora dos trilhos;
+* Controle multi-velocidade ao pressionar o animalzinho;
+* Os animalzinhos giram com o movimento do trem;
+* Canções especiais para cada animalzinho;
+* Pilhas Inclusas.

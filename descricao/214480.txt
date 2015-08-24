@@ -1,0 +1,2 @@
+* Faixa etária: Acima de 4 anos;
+* Pilhas NÃO Inclusas.

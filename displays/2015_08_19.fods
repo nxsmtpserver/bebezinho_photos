@@ -1,0 +1,2201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
+ <office:meta><meta:creation-date>2015-04-01T12:14:05.472052639</meta:creation-date><dc:date>2015-08-24T09:36:18.811968468</dc:date><meta:editing-duration>P1DT13H50M35S</meta:editing-duration><meta:editing-cycles>444</meta:editing-cycles><meta:generator>LibreOffice/4.4.5.2$Linux_X86_64 LibreOffice_project/40m0$Build-2</meta:generator><meta:document-statistic meta:table-count="2" meta:cell-count="452" meta:object-count="0"/></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
+   <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">58716</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">15947</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
+     <config:config-item-map-named config:name="Tables">
+      <config:config-item-map-entry config:name="Legendas">
+       <config:config-item config:name="CursorPositionX" config:type="int">0</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">2</config:config-item>
+       <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
+       <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
+       <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
+       <config:config-item config:name="VerticalSplitPosition" config:type="int">0</config:config-item>
+       <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
+       <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
+       <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+       <config:config-item config:name="ZoomValue" config:type="int">140</config:config-item>
+       <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
+       <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+      </config:config-item-map-entry>
+      <config:config-item-map-entry config:name="Main">
+       <config:config-item config:name="CursorPositionX" config:type="int">5</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">30</config:config-item>
+       <config:config-item config:name="HorizontalSplitMode" config:type="short">2</config:config-item>
+       <config:config-item config:name="VerticalSplitMode" config:type="short">2</config:config-item>
+       <config:config-item config:name="HorizontalSplitPosition" config:type="int">3</config:config-item>
+       <config:config-item config:name="VerticalSplitPosition" config:type="int">2</config:config-item>
+       <config:config-item config:name="ActiveSplitRange" config:type="short">3</config:config-item>
+       <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionRight" config:type="int">3</config:config-item>
+       <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">20</config:config-item>
+       <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+       <config:config-item config:name="ZoomValue" config:type="int">140</config:config-item>
+       <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
+       <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+      </config:config-item-map-entry>
+     </config:config-item-map-named>
+     <config:config-item config:name="ActiveTable" config:type="string">Main</config:config-item>
+     <config:config-item config:name="HorizontalScrollbarWidth" config:type="int">1306</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ZoomValue" config:type="int">140</config:config-item>
+     <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
+     <config:config-item config:name="ShowPageBreakPreview" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ShowZeroValues" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="ShowNotes" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="GridColor" config:type="long">12632256</config:config-item>
+     <config:config-item config:name="ShowPageBreaks" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="HasColumnRowHeaders" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="HasSheetTabs" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="IsOutlineSymbolsSet" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="IsSnapToRaster" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="RasterIsVisible" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="RasterResolutionX" config:type="int">1000</config:config-item>
+     <config:config-item config:name="RasterResolutionY" config:type="int">1000</config:config-item>
+     <config:config-item config:name="RasterSubdivisionX" config:type="int">1</config:config-item>
+     <config:config-item config:name="RasterSubdivisionY" config:type="int">1</config:config-item>
+     <config:config-item config:name="IsRasterAxisSynchronized" config:type="boolean">true</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsDocumentShared" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">jAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsgAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCm1hcmdpbmRhanVzdG1lbnQ9MCwwLDAsMApjb2xvcmRlcHRoPTI0CnBzbGV2ZWw9MApwZGZkZXZpY2U9MApjb2xvcmRldmljZT0wClBQRENvbnRleERhdGEKUGFnZVNpemU6QTQARHVwbGV4Ok5vbmUAABIAQ09NUEFUX0RVUExFWF9NT0RFCgBEVVBMRVhfT0ZG</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string">Generic Printer</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AutoCalculate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RasterIsVisible" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsSnapToRaster" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RasterSubdivisionX" config:type="int">1</config:config-item>
+   <config:config-item config:name="IsOutlineSymbolsSet" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="RasterResolutionX" config:type="int">1000</config:config-item>
+   <config:config-item config:name="HasSheetTabs" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">3</config:config-item>
+   <config:config-item config:name="IsRasterAxisSynchronized" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ShowPageBreaks" config:type="boolean">true</config:config-item>
+   <config:config-item-map-indexed config:name="ForbiddenCharacters">
+    <config:config-item-map-entry>
+     <config:config-item config:name="Language" config:type="string">en</config:config-item>
+     <config:config-item config:name="Country" config:type="string">AU</config:config-item>
+     <config:config-item config:name="Variant" config:type="string"/>
+     <config:config-item config:name="BeginLine" config:type="string"/>
+     <config:config-item config:name="EndLine" config:type="string"/>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+   <config:config-item config:name="HasColumnRowHeaders" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="GridColor" config:type="long">12632256</config:config-item>
+   <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="RasterSubdivisionY" config:type="int">1</config:config-item>
+   <config:config-item config:name="RasterResolutionY" config:type="int">1000</config:config-item>
+   <config:config-item config:name="ShowNotes" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ShowZeroValues" config:type="boolean">true</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="Ubuntu" svg:font-family="Ubuntu" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="DejaVu Sans" svg:font-family="&apos;DejaVu Sans&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Droid Sans Fallback" svg:font-family="&apos;Droid Sans Fallback&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="FreeSans" svg:font-family="FreeSans" style:font-family-generic="system" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <style:default-style style:family="table-cell">
+   <style:paragraph-properties style:tab-stop-distance="12.5mm"/>
+   <style:text-properties style:font-name="Liberation Sans" fo:language="en" fo:country="AU" style:font-name-asian="DejaVu Sans" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="DejaVu Sans" style:language-complex="hi" style:country-complex="IN"/>
+  </style:default-style>
+  <number:number-style style:name="N0">
+   <number:number number:min-integer-digits="1"/>
+  </number:number-style>
+  <number:currency-style style:name="N104P0" style:volatile="true">
+   <number:currency-symbol number:language="en" number:country="AU">$</number:currency-symbol>
+   <number:number number:decimal-places="2" number:min-integer-digits="1" number:grouping="true"/>
+  </number:currency-style>
+  <number:currency-style style:name="N104">
+   <style:text-properties fo:color="#ff0000"/>
+   <number:text>-</number:text>
+   <number:currency-symbol number:language="en" number:country="AU">$</number:currency-symbol>
+   <number:number number:decimal-places="2" number:min-integer-digits="1" number:grouping="true"/>
+   <style:map style:condition="value()&gt;=0" style:apply-style-name="N104P0"/>
+  </number:currency-style>
+  <number:number-style style:name="N109">
+   <number:number number:decimal-places="3" number:min-integer-digits="1" number:grouping="true"/>
+  </number:number-style>
+  <number:number-style style:name="N110">
+   <number:number number:decimal-places="3" number:min-integer-digits="0" number:grouping="true"/>
+  </number:number-style>
+  <number:number-style style:name="N112P0" style:volatile="true">
+   <number:number number:decimal-places="3" number:min-integer-digits="1" number:grouping="true"/>
+   <number:text> </number:text>
+  </number:number-style>
+  <number:number-style style:name="N112">
+   <number:text>(</number:text>
+   <number:number number:decimal-places="3" number:min-integer-digits="1" number:grouping="true"/>
+   <number:text>)</number:text>
+   <style:map style:condition="value()&gt;=0" style:apply-style-name="N112P0"/>
+  </number:number-style>
+  <number:number-style style:name="N113">
+   <number:number number:decimal-places="0" number:min-integer-digits="6"/>
+  </number:number-style>
+  <style:style style:name="Default" style:family="table-cell">
+   <style:text-properties style:font-name-asian="Droid Sans Fallback" style:font-family-asian="&apos;Droid Sans Fallback&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-name-complex="FreeSans" style:font-family-complex="FreeSans" style:font-family-generic-complex="system" style:font-pitch-complex="variable"/>
+  </style:style>
+  <style:style style:name="Result" style:family="table-cell" style:parent-style-name="Default">
+   <style:text-properties fo:font-style="italic" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold"/>
+  </style:style>
+  <style:style style:name="Result2" style:family="table-cell" style:parent-style-name="Result" style:data-style-name="N104"/>
+  <style:style style:name="Heading" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false"/>
+   <style:paragraph-properties fo:text-align="center"/>
+   <style:text-properties fo:font-size="16pt" fo:font-style="italic" fo:font-weight="bold"/>
+  </style:style>
+  <style:style style:name="Heading1" style:family="table-cell" style:parent-style-name="Heading">
+   <style:table-cell-properties style:rotation-angle="90"/>
+  </style:style>
+  <draw:marker draw:name="Arrowheads_20_1" draw:display-name="Arrowheads 1" svg:viewBox="0 0 20 30" svg:d="M10 0l-10 30h20z"/>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="co4" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="7.39mm"/>
+  </style:style>
+  <style:style style:name="co2" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="11.47mm"/>
+  </style:style>
+  <style:style style:name="co3" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="22.58mm"/>
+  </style:style>
+  <style:style style:name="co5" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="33.83mm"/>
+  </style:style>
+  <style:style style:name="ro2" style:family="table-row">
+   <style:table-row-properties style:row-height="5.29mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro3" style:family="table-row">
+   <style:table-row-properties style:row-height="6.01mm" fo:break-before="auto" style:use-optimal-row-height="false"/>
+  </style:style>
+  <style:style style:name="ro4" style:family="table-row">
+   <style:table-row-properties style:row-height="4.52mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ta1" style:family="table" style:master-page-name="Default">
+   <style:table-properties table:display="true" style:writing-mode="lr-tb"/>
+  </style:style>
+  <number:text-style style:name="N100">
+   <number:text-content/>
+  </number:text-style>
+  <style:style style:name="ce26" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:background-color="#99ccff"/>
+   <style:text-properties style:text-position="" style:font-name="Ubuntu" fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+  </style:style>
+  <style:style style:name="ce29" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:background-color="#66ff00"/>
+   <style:text-properties style:text-position="" style:font-name="Ubuntu" fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+  </style:style>
+  <style:style style:name="ce30" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:background-color="transparent"/>
+   <style:text-properties style:text-position=""/>
+  </style:style>
+  <style:style style:name="ce7" style:family="table-cell" style:parent-style-name="Default">
+   <style:text-properties style:text-position="" style:font-name="Ubuntu" fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+  </style:style>
+  <style:style style:name="ce5" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false"/>
+   <style:paragraph-properties fo:text-align="start" fo:margin-left="0mm"/>
+   <style:text-properties style:font-name="Ubuntu" fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+  </style:style>
+  <style:style style:name="ce6" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+   <style:text-properties style:font-name="Ubuntu" fo:font-size="12pt" fo:font-weight="bold" style:font-size-asian="12pt" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="ce8" style:family="table-cell" style:parent-style-name="Default">
+   <style:text-properties style:font-name="Ubuntu" fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+  </style:style>
+  <style:style style:name="ce9" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:background-color="#ffff00" style:text-align-source="fix" style:repeat-content="false"/>
+   <style:paragraph-properties fo:text-align="start" fo:margin-left="0mm"/>
+   <style:text-properties style:font-name="Ubuntu" fo:font-size="12pt" fo:font-weight="normal" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="12pt" style:font-weight-asian="normal" style:font-name-complex="FreeSans" style:font-size-complex="12pt" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="ce10" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N113">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+   <style:text-properties style:font-name="Ubuntu" fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+  </style:style>
+  <style:style style:name="ce11" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:background-color="#ffff00" style:text-align-source="fix" style:repeat-content="false"/>
+   <style:paragraph-properties fo:text-align="start" fo:margin-left="0mm"/>
+   <style:text-properties style:font-name="Ubuntu" fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+  </style:style>
+  <style:style style:name="ce12" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N100">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false"/>
+   <style:paragraph-properties fo:text-align="start" fo:margin-left="0mm"/>
+   <style:text-properties style:font-name="Ubuntu" fo:font-size="12pt" fo:font-weight="bold" style:font-size-asian="12pt" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="ce13" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N100">
+   <style:table-cell-properties fo:background-color="#66ff00" style:text-align-source="fix" style:repeat-content="false"/>
+   <style:paragraph-properties fo:text-align="start" fo:margin-left="0mm"/>
+   <style:text-properties style:font-name="Ubuntu" fo:font-size="12pt" fo:font-weight="bold" style:font-size-asian="12pt" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="ce14" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N100">
+   <style:text-properties style:font-name="Ubuntu" fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+  </style:style>
+  <style:style style:name="ce15" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false"/>
+   <style:paragraph-properties fo:text-align="start" fo:margin-left="0mm"/>
+   <style:text-properties style:font-name="Ubuntu" fo:font-size="12pt" fo:font-weight="bold" style:font-size-asian="12pt" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="ce16" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+   <style:text-properties style:font-name="Ubuntu" fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+  </style:style>
+  <style:style style:name="ce17" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:background-color="#ffff00" style:text-align-source="fix" style:repeat-content="false"/>
+   <style:paragraph-properties fo:text-align="start" fo:margin-left="0mm"/>
+   <style:text-properties style:font-name="Liberation Sans" fo:font-size="10pt" fo:language="none" fo:country="none" fo:font-weight="normal" style:font-size-asian="10pt" style:language-asian="none" style:country-asian="none" style:font-weight-asian="normal" style:font-size-complex="10pt" style:language-complex="none" style:country-complex="none" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="ce18" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:background-color="#ffff00" style:text-align-source="fix" style:repeat-content="false"/>
+   <style:paragraph-properties fo:text-align="start" fo:margin-left="0mm"/>
+   <style:text-properties style:font-name="Ubuntu" fo:font-size="12pt" fo:font-weight="bold" style:font-size-asian="12pt" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="ce19" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:background-color="#99ccff" style:text-align-source="fix" style:repeat-content="false"/>
+   <style:paragraph-properties fo:text-align="start" fo:margin-left="0mm"/>
+   <style:text-properties style:font-name="Ubuntu" fo:font-size="12pt" fo:font-weight="bold" style:font-size-asian="12pt" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="ce20" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N112">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:border="0.06pt solid #000000"/>
+   <style:paragraph-properties fo:text-align="start" fo:margin-left="0mm"/>
+   <style:text-properties style:font-name="Ubuntu" fo:font-size="12pt" fo:font-weight="bold" style:font-size-asian="12pt" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="ce21" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N112">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:border="0.06pt solid #000000"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+   <style:text-properties style:font-name="Ubuntu" fo:font-size="12pt" fo:font-weight="bold" style:font-size-asian="12pt" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="ce22" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N112">
+   <style:text-properties style:font-name="Ubuntu" fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+  </style:style>
+  <style:style style:name="ce23" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:background-color="#66ff00" style:text-align-source="fix" style:repeat-content="false"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+   <style:text-properties style:font-name="Ubuntu" fo:font-size="12pt" fo:font-weight="bold" style:font-size-asian="12pt" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="ce24" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:background-color="#99ccff"/>
+   <style:text-properties style:font-name="Ubuntu" fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+  </style:style>
+  <style:style style:name="ce25" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:background-color="transparent"/>
+   <style:paragraph-properties fo:text-align="start" fo:margin-left="0mm"/>
+   <style:text-properties style:font-name="Ubuntu" fo:font-size="12pt" fo:font-weight="bold" style:font-size-asian="12pt" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="ce27" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:background-color="transparent"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0mm"/>
+   <style:text-properties style:font-name="Ubuntu" fo:font-size="12pt" fo:font-weight="bold" style:font-size-asian="12pt" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="ce28" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:background-color="#66ff00"/>
+   <style:text-properties style:font-name="Ubuntu" fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+  </style:style>
+  <style:style style:name="ce31" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:background-color="transparent"/>
+  </style:style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties style:writing-mode="lr-tb"/>
+   <style:header-style>
+    <style:header-footer-properties fo:min-height="7.5mm" fo:margin-left="0mm" fo:margin-right="0mm" fo:margin-bottom="2.5mm"/>
+   </style:header-style>
+   <style:footer-style>
+    <style:header-footer-properties fo:min-height="7.5mm" fo:margin-left="0mm" fo:margin-right="0mm" fo:margin-top="2.5mm"/>
+   </style:footer-style>
+  </style:page-layout>
+  <style:page-layout style:name="pm2">
+   <style:page-layout-properties style:writing-mode="lr-tb"/>
+   <style:header-style>
+    <style:header-footer-properties fo:min-height="7.5mm" fo:margin-left="0mm" fo:margin-right="0mm" fo:margin-bottom="2.5mm" fo:border="2.49pt solid #000000" fo:padding="0.18mm" fo:background-color="#c0c0c0"/>
+   </style:header-style>
+   <style:footer-style>
+    <style:header-footer-properties fo:min-height="7.5mm" fo:margin-left="0mm" fo:margin-right="0mm" fo:margin-top="2.5mm" fo:border="2.49pt solid #000000" fo:padding="0.18mm" fo:background-color="#c0c0c0"/>
+   </style:footer-style>
+  </style:page-layout>
+  <style:style style:name="T1" style:family="text">
+   <style:text-properties style:text-underline-style="none" style:text-underline-color="font-color" style:text-line-through-type="none" fo:font-style="normal" style:text-outline="false" fo:text-shadow="none" style:text-line-through-mode="continuous" fo:country="none" style:country-asian="none" style:country-complex="none" style:font-name-asian="Droid Sans Fallback" style:font-name-complex="FreeSans" style:font-size-asian="10pt" style:font-size-complex="10pt" style:font-weight-asian="normal" style:font-weight-complex="normal" style:font-style-asian="normal" style:font-style-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+  </style:style>
+  <style:style style:name="T2" style:family="text">
+   <style:text-properties style:font-name="Liberation Sans" fo:font-size="10pt" fo:font-weight="normal" style:text-underline-style="none" style:text-underline-color="font-color" style:text-line-through-type="none" fo:font-style="normal" style:text-outline="false" fo:text-shadow="none" style:text-line-through-mode="continuous" fo:country="none" style:country-asian="none" style:country-complex="none" style:font-name-asian="Droid Sans Fallback" style:font-name-complex="FreeSans" style:font-size-asian="10pt" style:font-size-complex="10pt" style:font-weight-asian="normal" style:font-weight-complex="normal" style:font-style-asian="normal" style:font-style-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+  </style:style>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Default" style:page-layout-name="pm1">
+   <style:header>
+    <text:p><text:sheet-name>???</text:sheet-name></text:p>
+   </style:header>
+   <style:header-left style:display="false"/>
+   <style:footer>
+    <text:p>Page <text:page-number>1</text:page-number></text:p>
+   </style:footer>
+   <style:footer-left style:display="false"/>
+  </style:master-page>
+  <style:master-page style:name="Report" style:page-layout-name="pm2">
+   <style:header>
+    <style:region-left>
+     <text:p><text:sheet-name>???</text:sheet-name> (<text:title>???</text:title>)</text:p>
+    </style:region-left>
+    <style:region-right>
+     <text:p><text:date style:data-style-name="N2" text:date-value="2015-08-24">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="09:36:13.949310801">00:00:00</text:time></text:p>
+    </style:region-right>
+   </style:header>
+   <style:header-left style:display="false"/>
+   <style:footer>
+    <text:p>Page <text:page-number>1</text:page-number> / <text:page-count>99</text:page-count></text:p>
+   </style:footer>
+   <style:footer-left style:display="false"/>
+  </style:master-page>
+ </office:master-styles>
+ <office:body>
+  <office:spreadsheet>
+   <table:content-validations>
+    <table:content-validation table:name="val1" table:condition="of:cell-content-is-in-list(&quot;N&quot;;&quot;A&quot;;&quot;D&quot;)" table:allow-empty-cell="true" table:display-list="unsorted" table:base-cell-address="Main.H3">
+     <table:error-message table:message-type="stop" table:display="true"/>
+    </table:content-validation>
+    <table:content-validation table:name="val2" table:base-cell-address="Main.I35">
+     <table:error-message table:message-type="stop" table:display="true"/>
+    </table:content-validation>
+    <table:content-validation table:name="val3" table:condition="of:cell-content-is-in-list($#REF!.$F$2:$F$1000007)" table:allow-empty-cell="true" table:display-list="sort-ascending" table:base-cell-address="Main.K5">
+     <table:error-message table:message-type="stop" table:display="true"/>
+    </table:content-validation>
+    <table:content-validation table:name="val4" table:condition="of:cell-content-is-in-list($#REF!.$A$2:$A$17)" table:allow-empty-cell="false" table:display-list="unsorted" table:base-cell-address="Main.L3">
+     <table:error-message table:message-type="stop" table:display="true"/>
+    </table:content-validation>
+    <table:content-validation table:name="val5" table:condition="of:cell-content-is-in-list($#REF!.$A$2:$A$17)" table:allow-empty-cell="false" table:display-list="unsorted" table:base-cell-address="Main.L5">
+     <table:error-message table:message-type="stop" table:display="true"/>
+    </table:content-validation>
+    <table:content-validation table:name="val6" table:condition="of:cell-content-is-in-list($#REF!.$A$2:$A$18)" table:allow-empty-cell="false" table:display-list="unsorted" table:base-cell-address="Main.L3">
+     <table:error-message table:message-type="stop" table:display="true"/>
+    </table:content-validation>
+    <table:content-validation table:name="val7" table:condition="of:cell-content-is-in-list($#REF!.$C$2:$C$48)" table:allow-empty-cell="true" table:display-list="unsorted" table:base-cell-address="Main.P5">
+     <table:error-message table:message-type="stop" table:display="true"/>
+    </table:content-validation>
+    <table:content-validation table:name="val8" table:condition="of:cell-content-is-in-list($#REF!.$C$2:$C$48)" table:allow-empty-cell="true" table:display-list="unsorted" table:base-cell-address="Main.Q3">
+     <table:error-message table:message-type="stop" table:display="true"/>
+    </table:content-validation>
+    <table:content-validation table:name="val9" table:condition="of:cell-content-is-in-list(&quot;S&quot;;&quot;N&quot;)" table:allow-empty-cell="true" table:display-list="unsorted" table:base-cell-address="Main.Q5">
+     <table:error-message table:message-type="stop" table:display="true"/>
+    </table:content-validation>
+    <table:content-validation table:name="val10" table:condition="of:cell-content-is-in-list(&quot;S&quot;;&quot;N&quot;)" table:allow-empty-cell="true" table:display-list="unsorted" table:base-cell-address="Main.R3">
+     <table:error-message table:message-type="stop" table:display="true"/>
+    </table:content-validation>
+    <table:content-validation table:name="val11" table:condition="of:cell-content-is-in-list($#REF!.$E$2:$E$109)" table:allow-empty-cell="true" table:display-list="unsorted" table:base-cell-address="Main.S3">
+     <table:error-message table:message-type="stop" table:display="true"/>
+    </table:content-validation>
+    <table:content-validation table:name="val12" table:condition="of:cell-content-is-in-list($#REF!.$B$2:$B$27)" table:allow-empty-cell="true" table:display-list="unsorted" table:base-cell-address="Main.T3">
+     <table:error-message table:message-type="stop" table:display="true"/>
+    </table:content-validation>
+    <table:content-validation table:name="val13" table:condition="of:cell-content-is-in-list($#REF!.$B$2:$B$26)" table:allow-empty-cell="true" table:display-list="unsorted" table:base-cell-address="Main.U3">
+     <table:error-message table:message-type="stop" table:display="true"/>
+    </table:content-validation>
+    <table:content-validation table:name="val14" table:condition="of:cell-content-is-in-list($#REF!.$D$2:$D$23)" table:allow-empty-cell="false" table:display-list="unsorted" table:base-cell-address="Main.V3">
+     <table:error-message table:message-type="stop" table:display="true"/>
+    </table:content-validation>
+    <table:content-validation table:name="val15" table:condition="of:cell-content-is-in-list($#REF!.$G$2:$G$200)" table:allow-empty-cell="true" table:display-list="sort-ascending" table:base-cell-address="Main.W3">
+     <table:error-message table:message-type="stop" table:display="true"/>
+    </table:content-validation>
+    <table:content-validation table:name="val16" table:condition="of:cell-content-is-in-list($#REF!.$H$2:$H$10003)" table:allow-empty-cell="true" table:display-list="sort-ascending" table:base-cell-address="Main.X3">
+     <table:error-message table:message-type="stop" table:display="true"/>
+    </table:content-validation>
+   </table:content-validations>
+   <table:table table:name="Main" table:style-name="ta1">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+    <table:table-column table:style-name="co2" table:default-cell-style-name="ce8"/>
+    <table:table-column table:style-name="co3" table:default-cell-style-name="ce8"/>
+    <table:table-column table:style-name="co5" table:default-cell-style-name="ce8"/>
+    <table:table-column table:style-name="co3" table:number-columns-repeated="1017" table:default-cell-style-name="ce8"/>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell table:style-name="ce5"/>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>[Código ERP] Código do produto no sistema de Gerão do Lojista. </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce11" office:value-type="string" calcext:value-type="string">
+      <text:p>[Nome do Produto] Nome do produto no Display.</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12"/>
+     <table:table-cell table:style-name="ce15" office:value-type="string" calcext:value-type="string">
+      <text:p>.</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string"><text:p><text:span text:style-name="T1">[Lote das Fotos]</text:span></text:p><text:p/><text:p><text:span text:style-name="T1">Identifica o commit do git que salvou as fotos logo após terem sidas baixadas da câmera fotográfica.Esse valor será salvo na discrição da imagem localizada no Display do produto.</text:span></text:p><text:p/><text:p><text:span text:style-name="T1">Para localizar um lote, proceda da seguinte forma:</text:span></text:p><text:p/><text:p><text:span text:style-name="T1">$ git log --all --grep=&apos;camera YY_MM_DD&apos;Onde YY_MM_DD é o formato do valor deste campo e corresponde ao ano, mês e dia que as fotos foram tiradas.</text:span></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string"><text:p><text:span text:style-name="T1">[Numeração do Item]</text:span></text:p><text:p/><text:p><text:span text:style-name="T1">Padrão = 1</text:span></text:p><text:p/><text:p><text:span text:style-name="T1">Usado para identificar os itens que compõem um único produto. Note que esse valor NÃO é para informar a quantidade de peças de um mesmo produto.</text:span></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce17" office:value-type="string" calcext:value-type="string"><text:p><text:span text:style-name="T1">[Atributo]N = Item padrão</text:span></text:p><text:p><text:span text:style-name="T1">A = Atributo ( Atualiza o cadastro do produto / Não cria novo display )</text:span></text:p><text:p><text:span text:style-name="T1">D = Novo DisplayA linha conterá apenas as informacoes do atributo.</text:span></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce18" table:content-validation-name="val2" office:value-type="string" calcext:value-type="string"><text:p><text:span text:style-name="T2">[Display]</text:span></text:p><text:p/><text:p><text:span text:style-name="T2">Padrão = 0</text:span></text:p><text:p/><text:p><text:span text:style-name="T2">Cada novo display para um único produto receberá um número sequencial.</text:span></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string"><text:p><text:span text:style-name="T1">[Quantidade de Produtos]</text:span></text:p><text:p/><text:p><text:span text:style-name="T1">Valor Padrão = 1Ao contrário de [Numeração do Item], esse valor indica quantas peças idênticas acompanham um único produto.</text:span></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce15" office:value-type="string" calcext:value-type="string">
+      <text:p>.</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce15" table:content-validation-name="val4"/>
+     <table:table-cell table:style-name="ce20" table:number-columns-repeated="4"/>
+     <table:table-cell table:style-name="ce15" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce9" table:content-validation-name="val2" office:value-type="string" calcext:value-type="string">
+      <text:p>[Cor Sortida]Informa se o Lojista possui um cadastro para cada cor do produto.S = Sim ( Cada produto tem seu cadastro )N = Não ( Todas as cores estão em um único cadastro )</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce15" table:content-validation-name="val2" office:value-type="string" calcext:value-type="string">
+      <text:p>.</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce15"/>
+     <table:table-cell table:style-name="ce15" table:content-validation-name="val12"/>
+     <table:table-cell table:style-name="ce15" table:content-validation-name="val2" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce15"/>
+     <table:table-cell table:style-name="ce25" table:number-columns-repeated="251"/>
+     <table:table-cell table:style-name="ce15" table:number-columns-repeated="652"/>
+     <table:table-cell table:style-name="ce5" table:number-columns-repeated="93"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce6" office:value-type="string" calcext:value-type="string">
+      <text:p>PS</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" office:value-type="string" calcext:value-type="string">
+      <text:p>ERP</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" office:value-type="string" calcext:value-type="string">
+      <text:p>Nome</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce13" office:value-type="string" calcext:value-type="string">
+      <text:p>Modelo / Ref.</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" office:value-type="string" calcext:value-type="string">
+      <text:p>Lojista</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce15" office:value-type="string" calcext:value-type="string">
+      <text:p>Lote das Fotos</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" office:value-type="string" calcext:value-type="string">
+      <text:p>Item</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce15" office:value-type="string" calcext:value-type="string">
+      <text:p>Atributo</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce15" table:content-validation-name="val2" office:value-type="string" calcext:value-type="string">
+      <text:p>Display</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce15" office:value-type="string" calcext:value-type="string">
+      <text:p>Quantidade</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce15" office:value-type="string" calcext:value-type="string">
+      <text:p>Marca / Fabricante</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce19" table:content-validation-name="val5" office:value-type="string" calcext:value-type="string">
+      <text:p>Un. Med.</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce21" office:value-type="string" calcext:value-type="string">
+      <text:p>Comp.</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce21" office:value-type="string" calcext:value-type="string">
+      <text:p>Largura</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce21" office:value-type="string" calcext:value-type="string">
+      <text:p>Altura</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce21" office:value-type="string" calcext:value-type="string">
+      <text:p>Diametro</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:content-validation-name="val7" office:value-type="string" calcext:value-type="string">
+      <text:p>Cor</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce15" table:content-validation-name="val9" office:value-type="string" calcext:value-type="string">
+      <text:p>Cor Sortida</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" table:content-validation-name="val2" office:value-type="string" calcext:value-type="string">
+      <text:p>Un. Peso / Volume</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce15" office:value-type="string" calcext:value-type="string">
+      <text:p>Peso / Volume</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce15" table:content-validation-name="val2" office:value-type="string" calcext:value-type="string">
+      <text:p>Voltagem</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce15" table:content-validation-name="val2" office:value-type="string" calcext:value-type="string">
+      <text:p>Fonte de Energia</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" table:content-validation-name="val2" office:value-type="string" calcext:value-type="string">
+      <text:p>Genero</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce24" office:value-type="string" calcext:value-type="string">
+      <text:p>Departamento</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce25" office:value-type="string" calcext:value-type="string">
+      <text:p>Msg Promoção</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce25" office:value-type="string" calcext:value-type="string">
+      <text:p>Em Destaque</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce27" table:number-columns-repeated="249"/>
+     <table:table-cell table:style-name="ce6" table:number-columns-repeated="652"/>
+     <table:table-cell table:number-columns-repeated="93"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce10" office:value-type="float" office:value="67484" calcext:value-type="float">
+      <text:p>067484</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Bichinhos Velozes | Leãozinho</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce14" office:value-type="string" calcext:value-type="string">
+      <text:p>1044</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="128" calcext:value-type="float">
+      <text:p>128</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>2015_08_19</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>N</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:content-validation-name="val2" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val3" office:value-type="string" calcext:value-type="string">
+      <text:p>Dican Brinquedos Ltda</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val6" office:value-type="string" calcext:value-type="string">
+      <text:p>Cm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="12.5" calcext:value-type="float">
+      <text:p>12.500 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="7.5" calcext:value-type="float">
+      <text:p>7.500 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="13" calcext:value-type="float">
+      <text:p>13.000 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22"/>
+     <table:table-cell table:content-validation-name="val8"/>
+     <table:table-cell table:content-validation-name="val10" office:value-type="string" calcext:value-type="string">
+      <text:p>N</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val11"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val13"/>
+     <table:table-cell table:content-validation-name="val14" office:value-type="string" calcext:value-type="string">
+      <text:p>Pilha</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val15"/>
+     <table:table-cell table:content-validation-name="val16" office:value-type="string" calcext:value-type="string">
+      <text:p>Brinquedos</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="996"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce10" office:value-type="float" office:value="67484" calcext:value-type="float">
+      <text:p>067484</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Bichinhos Velozes | Zebrinha</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce14" office:value-type="string" calcext:value-type="string">
+      <text:p>1044</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="128" calcext:value-type="float">
+      <text:p>128</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>2015_08_19</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>D</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:content-validation-name="val2" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val3" office:value-type="string" calcext:value-type="string">
+      <text:p>Dican Brinquedos Ltda</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val6" office:value-type="string" calcext:value-type="string">
+      <text:p>Cm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="13.5" calcext:value-type="float">
+      <text:p>13.500 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="7.5" calcext:value-type="float">
+      <text:p>7.500 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="13" calcext:value-type="float">
+      <text:p>13.000 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22"/>
+     <table:table-cell table:content-validation-name="val8"/>
+     <table:table-cell table:content-validation-name="val10" office:value-type="string" calcext:value-type="string">
+      <text:p>N</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val11"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val13"/>
+     <table:table-cell table:content-validation-name="val14" office:value-type="string" calcext:value-type="string">
+      <text:p>Pilha</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val15"/>
+     <table:table-cell table:content-validation-name="val16" office:value-type="string" calcext:value-type="string">
+      <text:p>Brinquedos</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="996"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce10" office:value-type="float" office:value="67484" calcext:value-type="float">
+      <text:p>067484</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Bichinhos Velozes | Rinoceronte</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce14" office:value-type="string" calcext:value-type="string">
+      <text:p>1044</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="128" calcext:value-type="float">
+      <text:p>128</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>2015_08_19</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>D</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:content-validation-name="val2" office:value-type="float" office:value="2" calcext:value-type="float">
+      <text:p>2</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val3" office:value-type="string" calcext:value-type="string">
+      <text:p>Dican Brinquedos Ltda</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val6" office:value-type="string" calcext:value-type="string">
+      <text:p>Cm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="13" calcext:value-type="float">
+      <text:p>13.000 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="7.5" calcext:value-type="float">
+      <text:p>7.500 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="13" calcext:value-type="float">
+      <text:p>13.000 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22"/>
+     <table:table-cell table:content-validation-name="val8"/>
+     <table:table-cell table:content-validation-name="val10" office:value-type="string" calcext:value-type="string">
+      <text:p>N</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val11"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val13"/>
+     <table:table-cell table:content-validation-name="val14" office:value-type="string" calcext:value-type="string">
+      <text:p>Pilha</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val15"/>
+     <table:table-cell table:content-validation-name="val16" office:value-type="string" calcext:value-type="string">
+      <text:p>Brinquedos</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="996"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce10" office:value-type="float" office:value="67484" calcext:value-type="float">
+      <text:p>067484</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Bichinhos Velozes | Girafinha</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce14" office:value-type="string" calcext:value-type="string">
+      <text:p>1044</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="128" calcext:value-type="float">
+      <text:p>128</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>2015_08_19</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>D</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:content-validation-name="val2" office:value-type="float" office:value="3" calcext:value-type="float">
+      <text:p>3</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val3" office:value-type="string" calcext:value-type="string">
+      <text:p>Dican Brinquedos Ltda</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val6" office:value-type="string" calcext:value-type="string">
+      <text:p>Cm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="12" calcext:value-type="float">
+      <text:p>12.000 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="7.5" calcext:value-type="float">
+      <text:p>7.500 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="14" calcext:value-type="float">
+      <text:p>14.000 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22"/>
+     <table:table-cell table:content-validation-name="val8"/>
+     <table:table-cell table:content-validation-name="val10" office:value-type="string" calcext:value-type="string">
+      <text:p>N</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val11"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val13"/>
+     <table:table-cell table:content-validation-name="val14" office:value-type="string" calcext:value-type="string">
+      <text:p>Pilha</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val15"/>
+     <table:table-cell table:content-validation-name="val16" office:value-type="string" calcext:value-type="string">
+      <text:p>Brinquedos</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="996"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce10" office:value-type="float" office:value="211192" calcext:value-type="float">
+      <text:p>211192</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Martelinho com Sons</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce14" office:value-type="string" calcext:value-type="string">
+      <text:p>1521</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="128" calcext:value-type="float">
+      <text:p>128</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>2015_08_19</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>N</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:content-validation-name="val2" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val3" office:value-type="string" calcext:value-type="string">
+      <text:p>Dican Brinquedos Ltda</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val6" office:value-type="string" calcext:value-type="string">
+      <text:p>Cm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="20" calcext:value-type="float">
+      <text:p>20.000 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="4" calcext:value-type="float">
+      <text:p>4.000 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="9.5" calcext:value-type="float">
+      <text:p>9.500 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22"/>
+     <table:table-cell table:content-validation-name="val8" office:value-type="string" calcext:value-type="string">
+      <text:p>Laranja</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val10" office:value-type="string" calcext:value-type="string">
+      <text:p>N</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val11"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val13"/>
+     <table:table-cell table:content-validation-name="val14" office:value-type="string" calcext:value-type="string">
+      <text:p>Pilha</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val15"/>
+     <table:table-cell table:content-validation-name="val16" office:value-type="string" calcext:value-type="string">
+      <text:p>Brinquedos</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="996"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce10" office:value-type="float" office:value="211196" calcext:value-type="float">
+      <text:p>211196</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Helicóptero Transporte Maluco</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce14" office:value-type="string" calcext:value-type="string">
+      <text:p>1703</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="128" calcext:value-type="float">
+      <text:p>128</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>2015_08_19</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>N</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:content-validation-name="val2" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val3" office:value-type="string" calcext:value-type="string">
+      <text:p>Dican Brinquedos Ltda</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val6" office:value-type="string" calcext:value-type="string">
+      <text:p>Cm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="27" calcext:value-type="float">
+      <text:p>27.000 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="28" calcext:value-type="float">
+      <text:p>28.000 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="16" calcext:value-type="float">
+      <text:p>16.000 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22"/>
+     <table:table-cell table:content-validation-name="val8" office:value-type="string" calcext:value-type="string">
+      <text:p>Amarelo</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val10" office:value-type="string" calcext:value-type="string">
+      <text:p>N</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val11"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val13"/>
+     <table:table-cell table:content-validation-name="val14" office:value-type="string" calcext:value-type="string">
+      <text:p>Pilha</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val15"/>
+     <table:table-cell table:content-validation-name="val16" office:value-type="string" calcext:value-type="string">
+      <text:p>Brinquedos</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="996"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce10" office:value-type="float" office:value="211861" calcext:value-type="float">
+      <text:p>211861</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Painel de Atividades Disney</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce14" office:value-type="string" calcext:value-type="string">
+      <text:p>869</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="128" calcext:value-type="float">
+      <text:p>128</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>2015_08_19</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>N</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:content-validation-name="val2" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val3" office:value-type="string" calcext:value-type="string">
+      <text:p>Elka Plásticos Ltda</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val6" office:value-type="string" calcext:value-type="string">
+      <text:p>Cm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="30" calcext:value-type="float">
+      <text:p>30.000 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="27" calcext:value-type="float">
+      <text:p>27.000 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="8" calcext:value-type="float">
+      <text:p>8.000 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22"/>
+     <table:table-cell table:content-validation-name="val8" office:value-type="string" calcext:value-type="string">
+      <text:p>Rosa</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val10" office:value-type="string" calcext:value-type="string">
+      <text:p>N</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val11"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val13"/>
+     <table:table-cell table:content-validation-name="val14" office:value-type="string" calcext:value-type="string">
+      <text:p>Pilha</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val15"/>
+     <table:table-cell table:content-validation-name="val16" office:value-type="string" calcext:value-type="string">
+      <text:p>Brinquedos</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="996"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce10" office:value-type="float" office:value="214475" calcext:value-type="float">
+      <text:p>214475</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Interessante Trem Elétrico</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce14" office:value-type="string" calcext:value-type="string">
+      <text:p>8688i</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="128" calcext:value-type="float">
+      <text:p>128</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>2015_08_19</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>N</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:content-validation-name="val2" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val3" office:value-type="string" calcext:value-type="string">
+      <text:p>Lotus Comércio, Manufatura e Importação de Brinquedos Ltda</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val6" office:value-type="string" calcext:value-type="string">
+      <text:p>Cm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="23" calcext:value-type="float">
+      <text:p>23.000 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="13" calcext:value-type="float">
+      <text:p>13.000 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="17" calcext:value-type="float">
+      <text:p>17.000 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22"/>
+     <table:table-cell table:content-validation-name="val8"/>
+     <table:table-cell table:content-validation-name="val10" office:value-type="string" calcext:value-type="string">
+      <text:p>N</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val11"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val13"/>
+     <table:table-cell table:content-validation-name="val14" office:value-type="string" calcext:value-type="string">
+      <text:p>Pilha</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val15"/>
+     <table:table-cell table:content-validation-name="val16" office:value-type="string" calcext:value-type="string">
+      <text:p>Brinquedos</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="996"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce10" office:value-type="float" office:value="214480" calcext:value-type="float">
+      <text:p>214480</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Tartarug Que Bota Ovo com Som e Luz</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce14" office:value-type="string" calcext:value-type="string">
+      <text:p>0606</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="128" calcext:value-type="float">
+      <text:p>128</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>2015_08_19</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>N</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:content-validation-name="val2" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val3" office:value-type="string" calcext:value-type="string">
+      <text:p>Lotus Comércio, Manufatura e Importação de Brinquedos Ltda</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val6" office:value-type="string" calcext:value-type="string">
+      <text:p>Cm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="20" calcext:value-type="float">
+      <text:p>20.000 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="14" calcext:value-type="float">
+      <text:p>14.000 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="9" calcext:value-type="float">
+      <text:p>9.000 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22"/>
+     <table:table-cell table:content-validation-name="val8"/>
+     <table:table-cell table:content-validation-name="val10" office:value-type="string" calcext:value-type="string">
+      <text:p>N</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val11"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val13"/>
+     <table:table-cell table:content-validation-name="val14" office:value-type="string" calcext:value-type="string">
+      <text:p>Pilha</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val15"/>
+     <table:table-cell table:content-validation-name="val16" office:value-type="string" calcext:value-type="string">
+      <text:p>Brinquedos</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="996"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce10" office:value-type="float" office:value="216148" calcext:value-type="float">
+      <text:p>216148</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Ferrari 458 Itália Baby Click! Play &amp; Go</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce14" office:value-type="string" calcext:value-type="string">
+      <text:p>3382</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="128" calcext:value-type="float">
+      <text:p>128</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>2015_08_19</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>N</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:content-validation-name="val2" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val3" office:value-type="string" calcext:value-type="string">
+      <text:p>DTC Trading Company Eireli</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val6" office:value-type="string" calcext:value-type="string">
+      <text:p>Cm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="13.5" calcext:value-type="float">
+      <text:p>13.500 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="8" calcext:value-type="float">
+      <text:p>8.000 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="7" calcext:value-type="float">
+      <text:p>7.000 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22"/>
+     <table:table-cell table:content-validation-name="val8" office:value-type="string" calcext:value-type="string">
+      <text:p>Vermelho</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val10" office:value-type="string" calcext:value-type="string">
+      <text:p>N</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val11"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val13"/>
+     <table:table-cell table:content-validation-name="val14" office:value-type="string" calcext:value-type="string">
+      <text:p>Pilha</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val15"/>
+     <table:table-cell table:content-validation-name="val16" office:value-type="string" calcext:value-type="string">
+      <text:p>Brinquedos</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="996"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Trilhos</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce10" office:value-type="float" office:value="220835" calcext:value-type="float">
+      <text:p>220835</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Super Trenzinho na Estação</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce14" office:value-type="string" calcext:value-type="string">
+      <text:p>2710</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="128" calcext:value-type="float">
+      <text:p>128</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>2015_08_19</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>N</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:content-validation-name="val2" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val3" office:value-type="string" calcext:value-type="string">
+      <text:p>Buba Toys</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val6" office:value-type="string" calcext:value-type="string">
+      <text:p>Cm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="60" calcext:value-type="float">
+      <text:p>60.000 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="40" calcext:value-type="float">
+      <text:p>40.000 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" table:number-columns-repeated="2"/>
+     <table:table-cell table:content-validation-name="val8"/>
+     <table:table-cell table:content-validation-name="val10" office:value-type="string" calcext:value-type="string">
+      <text:p>N</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val11"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val13"/>
+     <table:table-cell table:content-validation-name="val14" office:value-type="string" calcext:value-type="string">
+      <text:p>Pilha</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val15"/>
+     <table:table-cell table:content-validation-name="val16" office:value-type="string" calcext:value-type="string">
+      <text:p>Brinquedos</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="996"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Trêm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce10" office:value-type="float" office:value="220835" calcext:value-type="float">
+      <text:p>220835</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Super Trenzinho na Estação</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce14"/>
+     <table:table-cell office:value-type="float" office:value="128" calcext:value-type="float">
+      <text:p>128</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce16" office:value-type="float" office:value="2" calcext:value-type="float">
+      <text:p>2</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>A</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce16"/>
+     <table:table-cell table:content-validation-name="val3"/>
+     <table:table-cell table:content-validation-name="val6" office:value-type="string" calcext:value-type="string">
+      <text:p>Cm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="12" calcext:value-type="float">
+      <text:p>12.000 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="7" calcext:value-type="float">
+      <text:p>7.000 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="9" calcext:value-type="float">
+      <text:p>9.000 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22"/>
+     <table:table-cell table:content-validation-name="val8"/>
+     <table:table-cell table:content-validation-name="val10"/>
+     <table:table-cell table:content-validation-name="val11"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val13"/>
+     <table:table-cell table:content-validation-name="val14"/>
+     <table:table-cell table:content-validation-name="val15"/>
+     <table:table-cell table:content-validation-name="val16"/>
+     <table:table-cell table:number-columns-repeated="996"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Trailer</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce10" office:value-type="float" office:value="220835" calcext:value-type="float">
+      <text:p>220835</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Super Trenzinho na Estação</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce14"/>
+     <table:table-cell office:value-type="float" office:value="128" calcext:value-type="float">
+      <text:p>128</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce16" office:value-type="float" office:value="3" calcext:value-type="float">
+      <text:p>3</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>A</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce16"/>
+     <table:table-cell table:content-validation-name="val3"/>
+     <table:table-cell table:content-validation-name="val6" office:value-type="string" calcext:value-type="string">
+      <text:p>Cm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="10" calcext:value-type="float">
+      <text:p>10.000 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="7" calcext:value-type="float">
+      <text:p>7.000 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="5.5" calcext:value-type="float">
+      <text:p>5.500 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22"/>
+     <table:table-cell table:content-validation-name="val8"/>
+     <table:table-cell table:content-validation-name="val10"/>
+     <table:table-cell table:content-validation-name="val11"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val13"/>
+     <table:table-cell table:content-validation-name="val14"/>
+     <table:table-cell table:content-validation-name="val15"/>
+     <table:table-cell table:content-validation-name="val16"/>
+     <table:table-cell table:number-columns-repeated="996"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Bichinhos</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce10" office:value-type="float" office:value="220835" calcext:value-type="float">
+      <text:p>220835</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Super Trenzinho na Estação</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce14"/>
+     <table:table-cell office:value-type="float" office:value="128" calcext:value-type="float">
+      <text:p>128</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce16" office:value-type="float" office:value="4" calcext:value-type="float">
+      <text:p>4</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>A</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce16"/>
+     <table:table-cell table:content-validation-name="val3"/>
+     <table:table-cell table:content-validation-name="val6" office:value-type="string" calcext:value-type="string">
+      <text:p>Cm</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2" table:style-name="ce22" office:value-type="float" office:value="4" calcext:value-type="float">
+      <text:p>4.000 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="7.5" calcext:value-type="float">
+      <text:p>7.500 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22"/>
+     <table:table-cell table:content-validation-name="val8"/>
+     <table:table-cell table:content-validation-name="val10"/>
+     <table:table-cell table:content-validation-name="val11"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val13"/>
+     <table:table-cell table:content-validation-name="val14"/>
+     <table:table-cell table:content-validation-name="val15"/>
+     <table:table-cell table:content-validation-name="val16"/>
+     <table:table-cell table:number-columns-repeated="996"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce10" office:value-type="float" office:value="220837" calcext:value-type="float">
+      <text:p>220837</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Super Volante de Atividades</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce14" office:value-type="string" calcext:value-type="string">
+      <text:p>0933</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="128" calcext:value-type="float">
+      <text:p>128</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>2015_08_19</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>N</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:content-validation-name="val2" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val3" office:value-type="string" calcext:value-type="string">
+      <text:p>Buba Toys</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val6" office:value-type="string" calcext:value-type="string">
+      <text:p>Cm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="20" calcext:value-type="float">
+      <text:p>20.000 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="16" calcext:value-type="float">
+      <text:p>16.000 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="20" calcext:value-type="float">
+      <text:p>20.000 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22"/>
+     <table:table-cell table:content-validation-name="val8"/>
+     <table:table-cell table:content-validation-name="val10" office:value-type="string" calcext:value-type="string">
+      <text:p>N</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val11"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val13"/>
+     <table:table-cell table:content-validation-name="val14" office:value-type="string" calcext:value-type="string">
+      <text:p>Pilha</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val15"/>
+     <table:table-cell table:content-validation-name="val16" office:value-type="string" calcext:value-type="string">
+      <text:p>Brinquedos</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="996"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Argola</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce10" office:value-type="float" office:value="221728" calcext:value-type="float">
+      <text:p>221728</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Jogo Torre Crash</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce14" office:value-type="string" calcext:value-type="string">
+      <text:p>3555</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="128" calcext:value-type="float">
+      <text:p>128</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>2015_08_19</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>N</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:content-validation-name="val2" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val3" office:value-type="string" calcext:value-type="string">
+      <text:p>DTC Trading Company Eireli</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val6" office:value-type="string" calcext:value-type="string">
+      <text:p>Cm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="11" calcext:value-type="float">
+      <text:p>11.000 </text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val8"/>
+     <table:table-cell table:content-validation-name="val10" office:value-type="string" calcext:value-type="string">
+      <text:p>N</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val11"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val13"/>
+     <table:table-cell table:content-validation-name="val14"/>
+     <table:table-cell table:content-validation-name="val15"/>
+     <table:table-cell table:content-validation-name="val16" office:value-type="string" calcext:value-type="string">
+      <text:p>Brinquedos</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="996"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Pinos</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce10" office:value-type="float" office:value="221728" calcext:value-type="float">
+      <text:p>221728</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Jogo Torre Crash</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce14"/>
+     <table:table-cell office:value-type="float" office:value="128" calcext:value-type="float">
+      <text:p>128</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce16" office:value-type="float" office:value="2" calcext:value-type="float">
+      <text:p>2</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>A</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce16"/>
+     <table:table-cell table:content-validation-name="val3"/>
+     <table:table-cell table:content-validation-name="val6" office:value-type="string" calcext:value-type="string">
+      <text:p>Cm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="4" calcext:value-type="float">
+      <text:p>4.000 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22"/>
+     <table:table-cell table:content-validation-name="val8"/>
+     <table:table-cell table:content-validation-name="val10"/>
+     <table:table-cell table:content-validation-name="val11"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val13"/>
+     <table:table-cell table:content-validation-name="val14"/>
+     <table:table-cell table:content-validation-name="val15"/>
+     <table:table-cell table:content-validation-name="val16"/>
+     <table:table-cell table:number-columns-repeated="996"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce10" office:value-type="float" office:value="222277" calcext:value-type="float">
+      <text:p>222277</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Carrinho Baby Driver</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce14" office:value-type="string" calcext:value-type="string">
+      <text:p>218</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="128" calcext:value-type="float">
+      <text:p>128</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>2015_08_19</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>N</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:content-validation-name="val2" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val3" office:value-type="string" calcext:value-type="string">
+      <text:p>BS Toys</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val6" office:value-type="string" calcext:value-type="string">
+      <text:p>Cm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="19" calcext:value-type="float">
+      <text:p>19.000 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="14" calcext:value-type="float">
+      <text:p>14.000 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="13" calcext:value-type="float">
+      <text:p>13.000 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22"/>
+     <table:table-cell table:content-validation-name="val8" office:value-type="string" calcext:value-type="string">
+      <text:p>Amarelo</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val10" office:value-type="string" calcext:value-type="string">
+      <text:p>N</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val11"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val13"/>
+     <table:table-cell table:content-validation-name="val14"/>
+     <table:table-cell table:content-validation-name="val15"/>
+     <table:table-cell table:content-validation-name="val16" office:value-type="string" calcext:value-type="string">
+      <text:p>Brinquedos</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="996"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce10" office:value-type="float" office:value="222571" calcext:value-type="float">
+      <text:p>222571</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Argolas Coloridas Pocoyo</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce14" office:value-type="string" calcext:value-type="string">
+      <text:p>277</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="128" calcext:value-type="float">
+      <text:p>128</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>2015_08_19</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>N</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:content-validation-name="val2" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val3" office:value-type="string" calcext:value-type="string">
+      <text:p>Cardoso Brinquedos</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val6" office:value-type="string" calcext:value-type="string">
+      <text:p>Cm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="20" calcext:value-type="float">
+      <text:p>20.000 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="10" calcext:value-type="float">
+      <text:p>10.000 </text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val8"/>
+     <table:table-cell table:content-validation-name="val10" office:value-type="string" calcext:value-type="string">
+      <text:p>N</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val11"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val13"/>
+     <table:table-cell table:content-validation-name="val14"/>
+     <table:table-cell table:content-validation-name="val15"/>
+     <table:table-cell table:content-validation-name="val16" office:value-type="string" calcext:value-type="string">
+      <text:p>Brinquedos</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="996"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Cada Dedoche</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce10" office:value-type="float" office:value="222574" calcext:value-type="float">
+      <text:p>222574</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Dedoches Galinha Pintadinha</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce14" office:value-type="string" calcext:value-type="string">
+      <text:p>0283</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="128" calcext:value-type="float">
+      <text:p>128</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>2015_08_19</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>N</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:content-validation-name="val2" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val3" office:value-type="string" calcext:value-type="string">
+      <text:p>Cardoso Brinquedos</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val6" office:value-type="string" calcext:value-type="string">
+      <text:p>Cm</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2" table:style-name="ce22" office:value-type="float" office:value="4" calcext:value-type="float">
+      <text:p>4.000 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="5" calcext:value-type="float">
+      <text:p>5.000 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22"/>
+     <table:table-cell table:content-validation-name="val8"/>
+     <table:table-cell table:content-validation-name="val10" office:value-type="string" calcext:value-type="string">
+      <text:p>N</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val11"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val13"/>
+     <table:table-cell table:content-validation-name="val14"/>
+     <table:table-cell table:content-validation-name="val15"/>
+     <table:table-cell table:content-validation-name="val16" office:value-type="string" calcext:value-type="string">
+      <text:p>Brinquedos</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="996"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Potes</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce10" office:value-type="float" office:value="222674" calcext:value-type="float">
+      <text:p>222674</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Fábrica de Modelar Sorvetes</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce14" office:value-type="string" calcext:value-type="string">
+      <text:p>2307.6</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="128" calcext:value-type="float">
+      <text:p>128</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>2015_08_19</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>N</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:content-validation-name="val2" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val3" office:value-type="string" calcext:value-type="string">
+      <text:p>Xalingo Brinquedos</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val6" office:value-type="string" calcext:value-type="string">
+      <text:p>Cm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="6.5" calcext:value-type="float">
+      <text:p>6.500 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="7.5" calcext:value-type="float">
+      <text:p>7.500 </text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val8"/>
+     <table:table-cell table:content-validation-name="val10" office:value-type="string" calcext:value-type="string">
+      <text:p>N</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val11"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val13"/>
+     <table:table-cell table:content-validation-name="val14"/>
+     <table:table-cell table:content-validation-name="val15"/>
+     <table:table-cell table:content-validation-name="val16" office:value-type="string" calcext:value-type="string">
+      <text:p>Brinquedos</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="996"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Bandeja</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce10" office:value-type="float" office:value="222674" calcext:value-type="float">
+      <text:p>222674</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Fábrica de Modelar Sorvetes</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce14"/>
+     <table:table-cell office:value-type="float" office:value="128" calcext:value-type="float">
+      <text:p>128</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce16" office:value-type="float" office:value="2" calcext:value-type="float">
+      <text:p>2</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>A</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce16"/>
+     <table:table-cell table:content-validation-name="val3"/>
+     <table:table-cell table:content-validation-name="val6" office:value-type="string" calcext:value-type="string">
+      <text:p>Cm</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2" table:style-name="ce22" office:value-type="float" office:value="10" calcext:value-type="float">
+      <text:p>10.000 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="2" calcext:value-type="float">
+      <text:p>2.000 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22"/>
+     <table:table-cell table:content-validation-name="val8"/>
+     <table:table-cell table:content-validation-name="val10"/>
+     <table:table-cell table:content-validation-name="val11"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val13"/>
+     <table:table-cell table:content-validation-name="val14"/>
+     <table:table-cell table:content-validation-name="val15"/>
+     <table:table-cell table:content-validation-name="val16"/>
+     <table:table-cell table:number-columns-repeated="996"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Colher</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce10" office:value-type="float" office:value="222674" calcext:value-type="float">
+      <text:p>222674</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Fábrica de Modelar Sorvetes</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce14"/>
+     <table:table-cell office:value-type="float" office:value="128" calcext:value-type="float">
+      <text:p>128</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce16" office:value-type="float" office:value="3" calcext:value-type="float">
+      <text:p>3</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>A</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce16"/>
+     <table:table-cell table:content-validation-name="val3"/>
+     <table:table-cell table:content-validation-name="val6" office:value-type="string" calcext:value-type="string">
+      <text:p>Cm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="12" calcext:value-type="float">
+      <text:p>12.000 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="6.5" calcext:value-type="float">
+      <text:p>6.500 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" table:number-columns-repeated="2"/>
+     <table:table-cell table:content-validation-name="val8"/>
+     <table:table-cell table:content-validation-name="val10"/>
+     <table:table-cell table:content-validation-name="val11"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val13"/>
+     <table:table-cell table:content-validation-name="val14"/>
+     <table:table-cell table:content-validation-name="val15"/>
+     <table:table-cell table:content-validation-name="val16"/>
+     <table:table-cell table:number-columns-repeated="996"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Cones</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce10" office:value-type="float" office:value="222674" calcext:value-type="float">
+      <text:p>222674</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Fábrica de Modelar Sorvetes</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce14"/>
+     <table:table-cell office:value-type="float" office:value="128" calcext:value-type="float">
+      <text:p>128</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce16" office:value-type="float" office:value="4" calcext:value-type="float">
+      <text:p>4</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>A</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce16"/>
+     <table:table-cell table:content-validation-name="val3"/>
+     <table:table-cell table:content-validation-name="val6" office:value-type="string" calcext:value-type="string">
+      <text:p>Cm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="8" calcext:value-type="float">
+      <text:p>8.000 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="4" calcext:value-type="float">
+      <text:p>4.000 </text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val8"/>
+     <table:table-cell table:content-validation-name="val10"/>
+     <table:table-cell table:content-validation-name="val11"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val13"/>
+     <table:table-cell table:content-validation-name="val14"/>
+     <table:table-cell table:content-validation-name="val15"/>
+     <table:table-cell table:content-validation-name="val16"/>
+     <table:table-cell table:number-columns-repeated="996"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Palito</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce10" office:value-type="float" office:value="222674" calcext:value-type="float">
+      <text:p>222674</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Fábrica de Modelar Sorvetes</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce14"/>
+     <table:table-cell office:value-type="float" office:value="128" calcext:value-type="float">
+      <text:p>128</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce16" office:value-type="float" office:value="5" calcext:value-type="float">
+      <text:p>5</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>A</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce16"/>
+     <table:table-cell table:content-validation-name="val3"/>
+     <table:table-cell table:content-validation-name="val6" office:value-type="string" calcext:value-type="string">
+      <text:p>Cm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="8" calcext:value-type="float">
+      <text:p>8.000 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22"/>
+     <table:table-cell table:content-validation-name="val8"/>
+     <table:table-cell table:content-validation-name="val10"/>
+     <table:table-cell table:content-validation-name="val11"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val13"/>
+     <table:table-cell table:content-validation-name="val14"/>
+     <table:table-cell table:content-validation-name="val15"/>
+     <table:table-cell table:content-validation-name="val16"/>
+     <table:table-cell table:number-columns-repeated="996"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce10" office:value-type="float" office:value="222689" calcext:value-type="float">
+      <text:p>222689</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Trenzinho João Fumaça com Vagões e Sons</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce14" office:value-type="string" calcext:value-type="string">
+      <text:p>4029</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="128" calcext:value-type="float">
+      <text:p>128</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>2015_08_19</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>N</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:content-validation-name="val2" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val3" office:value-type="string" calcext:value-type="string">
+      <text:p>Maral Indústria e Comércio de Brinquedos Ltda</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val6" office:value-type="string" calcext:value-type="string">
+      <text:p>Cm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="62" calcext:value-type="float">
+      <text:p>62.000 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="13" calcext:value-type="float">
+      <text:p>13.000 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="14" calcext:value-type="float">
+      <text:p>14.000 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22"/>
+     <table:table-cell table:content-validation-name="val8"/>
+     <table:table-cell table:content-validation-name="val10" office:value-type="string" calcext:value-type="string">
+      <text:p>N</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val11"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val13"/>
+     <table:table-cell table:content-validation-name="val14" office:value-type="string" calcext:value-type="string">
+      <text:p>Bateria</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val15"/>
+     <table:table-cell table:content-validation-name="val16" office:value-type="string" calcext:value-type="string">
+      <text:p>Brinquedos</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="996"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce10" office:value-type="float" office:value="223893" calcext:value-type="float">
+      <text:p>223893</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Bate Pinos Cocoricó</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce14" office:value-type="string" calcext:value-type="string">
+      <text:p>2308.7</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="128" calcext:value-type="float">
+      <text:p>128</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>2015_08_19</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>N</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:content-validation-name="val2" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val3" office:value-type="string" calcext:value-type="string">
+      <text:p>Xalingo Brinquedos</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val6" office:value-type="string" calcext:value-type="string">
+      <text:p>Cm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="10" calcext:value-type="float">
+      <text:p>10.000 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="23" calcext:value-type="float">
+      <text:p>23.000 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="10" calcext:value-type="float">
+      <text:p>10.000 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22"/>
+     <table:table-cell table:content-validation-name="val8"/>
+     <table:table-cell table:content-validation-name="val10" office:value-type="string" calcext:value-type="string">
+      <text:p>N</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val11"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val13"/>
+     <table:table-cell table:content-validation-name="val14"/>
+     <table:table-cell table:content-validation-name="val15"/>
+     <table:table-cell table:content-validation-name="val16" office:value-type="string" calcext:value-type="string">
+      <text:p>Brinquedos</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="996"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce10" office:value-type="float" office:value="752472" calcext:value-type="float">
+      <text:p>752472</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Gina Girafa Corre Corre</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce14" office:value-type="string" calcext:value-type="string">
+      <text:p>286</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="128" calcext:value-type="float">
+      <text:p>128</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>2015_08_19</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>N</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:content-validation-name="val2" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val3" office:value-type="string" calcext:value-type="string">
+      <text:p>Elka Plásticos Ltda</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val6" office:value-type="string" calcext:value-type="string">
+      <text:p>Cm</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="10" calcext:value-type="float">
+      <text:p>10.000 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="5.5" calcext:value-type="float">
+      <text:p>5.500 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="23" calcext:value-type="float">
+      <text:p>23.000 </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22"/>
+     <table:table-cell table:content-validation-name="val8" office:value-type="string" calcext:value-type="string">
+      <text:p>Amarelo</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val10" office:value-type="string" calcext:value-type="string">
+      <text:p>N</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val11"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val13"/>
+     <table:table-cell table:content-validation-name="val14"/>
+     <table:table-cell table:content-validation-name="val15"/>
+     <table:table-cell table:content-validation-name="val16" office:value-type="string" calcext:value-type="string">
+      <text:p>Brinquedos</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="996"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce10"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce14"/>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce16"/>
+     <table:table-cell table:style-name="ce16" table:content-validation-name="val1"/>
+     <table:table-cell table:style-name="ce16" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce16"/>
+     <table:table-cell table:content-validation-name="val3"/>
+     <table:table-cell table:content-validation-name="val6"/>
+     <table:table-cell table:style-name="ce22" table:number-columns-repeated="4"/>
+     <table:table-cell table:content-validation-name="val8"/>
+     <table:table-cell table:content-validation-name="val10"/>
+     <table:table-cell table:content-validation-name="val11"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val13"/>
+     <table:table-cell table:content-validation-name="val14"/>
+     <table:table-cell table:content-validation-name="val15"/>
+     <table:table-cell table:content-validation-name="val16"/>
+     <table:table-cell table:number-columns-repeated="996"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2" table:number-rows-repeated="1048287">
+     <table:table-cell table:number-columns-repeated="1020"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro4" table:number-rows-repeated="257">
+     <table:table-cell table:number-columns-repeated="1020"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro4">
+     <table:table-cell table:number-columns-repeated="1020"/>
+    </table:table-row>
+   </table:table>
+   <table:table table:name="Legendas" table:style-name="ta1">
+    <table:table-column table:style-name="co4" table:default-cell-style-name="ce8"/>
+    <table:table-column table:style-name="co4" table:number-columns-repeated="1023" table:default-cell-style-name="Default"/>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Cores das colunas</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce28"/>
+     <table:table-cell table:style-name="ce31" office:value-type="string" calcext:value-type="string">
+      <text:p>Campos do Cadastro de Produtos / Os demais campos são do display</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1022"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce24"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Campos que aceitam mais de um valor ( ilimitado )</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1022"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:number-columns-repeated="1024"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:number-columns-repeated="1024"/>
+    </table:table-row>
+   </table:table>
+   <table:named-expressions/>
+   <table:database-ranges>
+    <table:database-range table:name="__Anonymous_Sheet_DB__0" table:target-range-address="Main.A3:Main.Z30" table:contains-header="false">
+     <table:sort>
+      <table:sort-by table:field-number="1" table:data-type="automatic"/>
+     </table:sort>
+    </table:database-range>
+   </table:database-ranges>
+  </office:spreadsheet>
+ </office:body>
+</office:document>
