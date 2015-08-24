@@ -1,0 +1,2 @@
+* Não requer pilhas;
+* Apertando a Gina ela sairá em disparada.
